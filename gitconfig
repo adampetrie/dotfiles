@@ -1,0 +1,10 @@
+[user]
+	name = Adam Petrie
+	email = apetrie@freshbooks.com
+[color]
+    	ui = true
+[alias]
+    graph = log --graph --decorate --pretty=oneline --abbrev-commit
+[core]
+	editor = subl -w
+	excludesfile = /Users/apetrie/.gitignore
